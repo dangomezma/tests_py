@@ -1,6 +1,6 @@
 import pytest
 import math
-from tests_py.euclidian_dif.micode import calcular_distancia
+from micode import calcular_distancia
 
 def test_distancia_profe():
     p1=[0,0]
